@@ -1,0 +1,4 @@
+films/
+.venv
+*.pyc
+.ipynb_checkpoints
