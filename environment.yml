@@ -1,0 +1,7 @@
+name: filmstudy
+channels:
+- defaults
+- menpo
+dependencies:
+- opencv3
+- jupyter
