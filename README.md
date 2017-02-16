@@ -5,11 +5,11 @@ Create an Anaconda environment:
 
 `% conda env create -f environment.yml`
 
-Activate it
+Activate it:
 
 `% source activate filmstudy`
 
-Install a few non anaconda requirements.
+Install a few non anaconda requirements:
 
 `% pip install -r requirements.txt `
 
