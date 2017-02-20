@@ -1,5 +1,8 @@
-First, install [anaconda3](https://www.continuum.io/downloads) it'll make
-installing dependencies like numpy a lot easier.
+These are some Jupyter Notebooks containing computation experiments with film that are part of MITH's [Film Study 2](https://storify.com/film_lab2/film-lab-2-african-american-history-from-the-umd-c) symposium.
+
+To use the notebooks first install
+[anaconda3](https://www.continuum.io/downloads) it'll make installing
+dependencies like numpy a lot easier.
 
 Now open your terminal and git clone this repository:
 
