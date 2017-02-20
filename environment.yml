@@ -5,3 +5,4 @@ channels:
 dependencies:
 - opencv3
 - jupyter
+- ffmpeg

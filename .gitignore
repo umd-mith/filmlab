@@ -2,3 +2,5 @@ films/
 .venv
 *.pyc
 .ipynb_checkpoints
+videos/*.mp4
+frames/*.jpg
